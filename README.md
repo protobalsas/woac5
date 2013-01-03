@@ -1,4 +1,4 @@
 woac
 ====
 
-WOAC (Web Of Automated Content) CMS (Content Management System)
+WOAC (Web Of Automated Content) CMS (Content Management System) v5
